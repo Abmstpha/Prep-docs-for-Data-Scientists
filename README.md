@@ -1,6 +1,6 @@
-Deep Learning Computer Vision Comprehensive Q&A
+## Deep Learning Computer Vision Comprehensive Q&A
 
-Deeplearning_computervision_1.pdf
+# Deeplearning_computervision_1.pdf
 
 Human and Computer Vision Basics
 
